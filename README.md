@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fede080802
+- 👀 I’m interested in software programming development
+- 🌱 I’m currently learning different programmin languages like Java, Javascript, Python, PHP, Html, Css and databases like MySQL
+- 📫 How to reach me:
+- contact me on federico0800802@gmail.com
