@@ -47,7 +47,7 @@ I specialize in creating robust applications and dynamic web experiences. Whethe
 
 I'm always excited to collaborate on innovative projects and exchange ideas about technology. If you'd like to discuss potential collaborations, new opportunities, or simply share insights on software development, feel free to reach out.
 
-- **Email:** federico0800802@gmail.com  
+- **Email:** orsifederico.lavoro@gmail.com  
 - **GitHub:** [@fede080802](https://github.com/fede080802)
 
 Thank you for visiting my profile. Let's build something amazing together!
